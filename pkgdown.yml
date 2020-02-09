@@ -1,0 +1,13 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  advanced: advanced.html
+  basic: basic.html
+  faqs: faqs.html
+  intermediate: intermediate.html
+last_built: 2021-03-11T07:04Z
+urls:
+  reference: https://docs.ropensci.org/outsider.devtools/reference
+  article: https://docs.ropensci.org/outsider.devtools/articles
+

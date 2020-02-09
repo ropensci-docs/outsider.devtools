@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6ce5e3bd0a3ec1f16cdb276608973f3e685d5468",
+    "author": "Dom Bennett <dominic.john.bennett@gmail.com>",
+    "time": "2020-02-09 09:51:26",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #1 from ropensci/maelle-patch-1\n\nrm rOpenSci mention"
+  },
+  "remote": "https://github.com/ropensci/outsider.devtools",
+  "pkg": "outsider.devtools"
+}
